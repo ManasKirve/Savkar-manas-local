@@ -1,6 +1,6 @@
 // src/services/apiService.js
 
-const API_BASE_URL = 'https://savkarproject.onrender.com'; 
+const API_BASE_URL = 'https://savkar-manas-local.onrender.com'; 
 
 class ApiService {
   // Helper method for making API requests
